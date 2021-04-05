@@ -1,0 +1,3 @@
+Make it speak through aria when an element is removed/added.
+Try to make the text field auto-enter forms mode when screen readers focus it. I have no idea why it isn't.
+Add a button to also allow for adding todo's so sighted people don't have to press enter.
