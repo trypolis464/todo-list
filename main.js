@@ -2,7 +2,7 @@
  * Todo-List.
  * A simple HTML application for basic todos.
  * 
- * Copyright (C) 2021, Ty Gillespie. All rights reserved.
+ * Copyright (C) 2021, Quin Marilyn. All rights reserved.
  * MIT License.
  */
 
